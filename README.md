@@ -7,7 +7,6 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations o
 - **Basic CRUD Operations**: Developed API endpoints to perform the following operations on mock data:
   - **Create**: Add new data entries.
   - **Read**: Retrieve data entries.
-  - **Update**: Modify existing data entries.
   - **Delete**: Remove data entries.
   
 - **Extensibility**: This project can be extended with more functionalities and integrated with databases or front-end applications as needed.
